@@ -1,0 +1,6 @@
+Zone Name,"Networks (CIDR, comma separated)",Level,Security Profile,Force Assigned VLAN ID,MAC Matching Fallback,Extended Network Statistic Enabled,Use Label As Node Device ID,Matching VLAN ID,Assigned VLAN ID,Adaptive Learning,Learning,Is Public,Merging Zone,Merging,Isolated,Output Mode
+Corporate_LAN,10.10.1.0/24,5,,false,false,false,false,,,,,,,false,false,full
+CCTV_Demo,"10.20.1.0/24,10.20.2.253/32",3,,false,false,false,false,,,,,,,false,false,full
+Cloud_Services_Demo,172.16.0.0/16,4,,,,,,,,,,,,,,compact
+Physical_Security_Demo,10.30.0.0/16,4,,true,,,,,30,,,,,,,compact
+Substation_A_Demo,"192.168.10.0/24,192.168.11.0/24",1,,false,false,false,false,,,,,,,false,false,full
