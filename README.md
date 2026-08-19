@@ -1,6 +1,6 @@
 # Nozomi Guardian Zone Import Tool
 
-[![CI](https://github.com/YOUR-GITHUB-USERNAME/nozomi-guardian-zone-import-tool/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR-GITHUB-USERNAME/nozomi-guardian-zone-import-tool/actions/workflows/ci.yml)
+[![CI]([https://github.com/vzrpt6s8hv-hash/Nozomi-Guardian-Zone-Converter/nozomi-guardian-zone-import-tool/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR-GITHUB-USERNAME/nozomi-guardian-zone-import-tool/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 > **Disclaimer:** This is an independent, community-built tool put together
