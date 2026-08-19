@@ -40,7 +40,7 @@ you run them.
 - **Windows:** double-click `install_and_run.bat`
 - **macOS / Linux:**
   ```bash
-  git clone https://github.com/vzrpt6s8hv-hash/nozomi-guardian-zone-import-tool.git
+  git clone https://github.com/vzrpt6s8hv-hash/Nozomi-Guardian-Zone-import.git
   cd nozomi-guardian-zone-import-tool
   chmod +x install_and_run.sh
   ./install_and_run.sh
