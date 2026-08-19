@@ -180,7 +180,7 @@ nozomi-zone-import-tool --input zones.csv --output zones.cfg --mode full
 ## Development
 
 ```bash
-git clone https://github.com/YOUR-GITHUB-USERNAME/nozomi-guardian-zone-import-tool.git
+git clone https://github.com/vzrpt6s8hv-hash/Nozomi-Guardian-Zone-import.git
 cd nozomi-guardian-zone-import-tool
 python3 -m venv .venv && source .venv/bin/activate
 pip install -e ".[dev]"
