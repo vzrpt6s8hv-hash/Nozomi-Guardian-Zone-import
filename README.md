@@ -1,6 +1,5 @@
-# Nozomi Guardian Zone Import Tool
+# Nozomi-Guardian-Zone-import
 
-[![CI]([https://github.com/vzrpt6s8hv-hash/Nozomi-Guardian-Zone-Converter/nozomi-guardian-zone-import-tool/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR-GITHUB-USERNAME/nozomi-guardian-zone-import-tool/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 > **Disclaimer:** This is an independent, community-built tool put together
@@ -41,7 +40,7 @@ you run them.
 - **Windows:** double-click `install_and_run.bat`
 - **macOS / Linux:**
   ```bash
-  git clone https://github.com/YOUR-GITHUB-USERNAME/nozomi-guardian-zone-import-tool.git
+  git clone https://github.com/vzrpt6s8hv-hash/nozomi-guardian-zone-import-tool.git
   cd nozomi-guardian-zone-import-tool
   chmod +x install_and_run.sh
   ./install_and_run.sh
